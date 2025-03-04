@@ -25,21 +25,21 @@ Beyond coding, I am passionate about **Medicine, Art, and Fashion**, which inspi
 ### 🔹 Printf
 A custom implementation of the `printf` function in C, showcasing my understanding of low-level programming.
 
-🔗 [GitHub Repo](#) | 🔥 Technologies: C, System Calls
+🔗 https://github.com/MatthewZakari/printf.git | 🔥 Technologies: C, System Calls
 
 ---
 
 ### 🔹 AirBnB Clone
 A full-stack web application mimicking AirBnB's functionalities, with focus on database design, authentication, and RESTful APIs.
 
-🔗 [GitHub Repo](#) | 🔥 Technologies: Python, Flask, MySQL, HTML, CSS
+🔗 https://github.com/MatthewZakari/AirBnB_clone_v4.git | 🔥 Technologies: Python, Flask, MySQL, HTML, CSS
 
 ---
 
 ### 🔹 Authentication Microservice
 A microservice handling secure authentication using modern security practices.
 
-🔗 [GitHub Repo](#) | 🔥 Technologies: Node.js, JWT, Redis, TypeScript, Express.js
+🔗 https://github.com/MatthewZakari/authentication_microservice.git  | 🔥 Technologies: Node.js, JWT, Redis, TypeScript, Express.js
 
 ---
 
@@ -51,5 +51,5 @@ A microservice handling secure authentication using modern security practices.
 ---
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: www.linkedin.com/in/zakarienyojomatthew
 - Email: zakarimatthew62@gmail.com
