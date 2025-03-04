@@ -15,7 +15,7 @@ Beyond coding, I am passionate about **Medicine, Art, and Fashion**, which inspi
 - Other Skills: Markdown, Accessibility, Developer Tools
 
 ### 🔧 Back-End
-- Languages & Frameworks: JavaScript (Node.js), Python (Async, Unittesting, Integration Testing)
+- Languages & Frameworks: JavaScript (Node.js), Python (Async, Unittesting, Integration Testing), C
 - Databases: MySQL (Advanced), NoSQL, Redis
 - Other Skills: Authentication (OAuth, Session-based, JWT), Caching, Pagination, Queuing Systems
 
